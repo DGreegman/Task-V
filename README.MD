@@ -36,3 +36,4 @@ here is the class name
 6. Fish
 7. Arthropod
 
+the image attached will give you a visual view of the classes created 
